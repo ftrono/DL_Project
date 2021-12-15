@@ -1,5 +1,5 @@
 # Deep Learning Project
-*Eliana Battisti () - Davide Dalla Stella () - Francesco Trono (221723)*
+*Eliana Battisti (223701) - Davide Dalla Stella () - Francesco Trono (221723)*
 
 University of Trento
 
