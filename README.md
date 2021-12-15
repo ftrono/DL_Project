@@ -1,2 +1,6 @@
-# DL_Project
-Repo for the final project for Deep Learning course 2020-21 at UniTrento.
+# Deep Learning Project
+*Eliana Battisti () - Davide Dalla Stella () - Francesco Trono (221723)*
+
+University of Trento
+
+A.Y. 2020/2021 - Deep Learning Course
