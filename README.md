@@ -22,7 +22,7 @@ The repo contains the following files and folders:
 * **_Dataset_**: empty directory in which the content of the _dataset.zip_ archive will be extracted.
 
 ### Instructions:
-To run the code, simply open the _APRNet.ipynb_ file available in the _source_code_ folder. The file can be executed either on a local GPU, or using Google Colaboratory - in this later case, simply click on the **_"Open in Google Colab"_** badge on top of the Jupyter notebook to launch it. Once run, the notebook will automatically clone the GitHub repo to the local machine, without the need to access Google Drive.
+To run the code, simply open the **_APRNet.ipynb_** file available in the _source_code_ folder. The file can be executed either on a local GPU, or using Google Colaboratory - in this later case, simply click on the **_"Open in Google Colab"_** badge on top of the Jupyter notebook to launch it. Once run, the notebook will automatically clone the GitHub repo to the local machine, without the need to access Google Drive.
 
 The main directories and the full list of hyperparameters are available at the beginning of the file and can be tweaked for custom tests.
 
